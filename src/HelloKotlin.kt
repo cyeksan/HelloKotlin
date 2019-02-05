@@ -4,14 +4,6 @@ fun main() {
 
     val intValue = 2
 
-    print("Hello Kotlin $intValue")
-
-    println(
-        """
-        | x
-        | xxx
-        | xxxxxxxxx
-    """.trimMargin()
-    )
+    print("Hello Kotlin $intValue\n")
 
 }
