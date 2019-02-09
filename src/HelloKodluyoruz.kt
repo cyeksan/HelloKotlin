@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
 
     val name: String = "Cansu"
     val surName = "AKTAŞ"
-
+    val schoolName = "Koç Üniversitesi"
     val age = 28
     val amount = 2.500
 }
