@@ -12,4 +12,5 @@ fun main(args: Array<String>) {
     val schoolName = "Koç Üniversitesi"
     val age = 28
     val amount = 2.500
+    val num = 1341
 }
